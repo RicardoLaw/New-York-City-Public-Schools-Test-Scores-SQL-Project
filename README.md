@@ -7,14 +7,12 @@ In this project we analyze a dataset using SQL
 * Exploratory Data Analysis 
 
 
-# Questions answered while analyzing this dataset: 
+# Steps taken while analyzing this dataset: 
 
-1. Inspecting the data
-2. Finding missing values
-3. Schools by building code
-4. Best schools for math
-5. Lowest reading score
-6. Best writing school
-7. Top 10 schools
-8. Ranking boroughs
-9. Brooklyn numbers
+1. Inspect the dataset
+2. Find any missing values
+3. Grouping schools by their building code
+4. Finding schools with the best and the worst test scores 
+5. Top 10 schools based on test results 
+6. Ranking boroughs in New York 
+7. The numbers of the Brooklyn borough 
